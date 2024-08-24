@@ -1,9 +1,10 @@
 ---
 title: Roadmap
 layout: default
+nav_order: 2
 ---
 
-# Roadmap for InstaHost
+## Roadmap for InstaHost
 
 **1.0 Roadmap**
 [ ] Create a finalized list of services to be automated
