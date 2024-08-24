@@ -1,8 +1,8 @@
-title: InstaHost Documentation
+title: InstaHost Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: instahost.github.io
+url: docs
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
