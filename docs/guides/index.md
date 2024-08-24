@@ -7,6 +7,8 @@ has_toc: false
 has_children: true
 ---
 
+# Guides
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -15,8 +17,6 @@ has_children: true
 1. TOC
 {:toc}
 </details>
-
-# Guides
 
 This guide is intented to be started on a fresh installation of ubuntu on your server. You can also follow this simply by creating a new user, or even using your current user. However, running this root will typicall lead to issues with permissions and for that reason we recommend using a new user.
 
