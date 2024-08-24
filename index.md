@@ -2,6 +2,11 @@
 title: Home
 layout: home
 nav_order: 1
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+has_toc: false
 ---
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
