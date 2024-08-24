@@ -1,9 +1,9 @@
-title: InstaHost Docs
+title: InstaHost Docs Test
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: dark
 
-url: docs
+url: https://instahost.github.io/instahostdocs.github.io/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
