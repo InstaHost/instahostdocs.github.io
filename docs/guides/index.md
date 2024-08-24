@@ -67,3 +67,13 @@ Clone the github repoistory
 ```
 git clone https://github.com/InstaHost/InstaHost
 ```
+
+Open the directory of the clones repository
+```
+cd InstaHost
+```
+
+Run the python CLI
+```
+python3 InstaHost.py
+```
