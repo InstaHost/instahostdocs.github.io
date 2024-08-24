@@ -1,7 +1,7 @@
 title: InstaHost Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-color_scheme: test
+color_scheme: dark
 
 # Code Blocks
 enable_copy_code_button: true
